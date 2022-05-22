@@ -2,7 +2,7 @@
 
 💛 I [share things](https://wiki.nikiv.dev/sharing/) on [Twitter](https://twitter.com/nikitavoloboev), [Instagram](https://www.instagram.com/nikitavoloboev) & [YouTube](https://www.youtube.com/channel/UCEKqrUfr_FMKIO9XSJS4vDw) and appreciate [your support](https://github.com/sponsors/nikitavoloboev). [Ask me anything](https://github.com/nikitavoloboev/ama).
 
-<details><summary>💻 Click to see instructions for how to run my personal site's code</summary>
+<details><summary>💻 Instructions to run my personal site's code</summary>
   <br/>
 
 The repo with code for [nikiv.dev](https://www.nikiv.dev) website is [here](https://github.com/nikitavoloboev/nikitavoloboev).
