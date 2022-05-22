@@ -2,7 +2,23 @@
 
 💛 I [share things](https://wiki.nikiv.dev/sharing/) on [Twitter](https://twitter.com/nikitavoloboev), [Instagram](https://www.instagram.com/nikitavoloboev) & [YouTube](https://www.youtube.com/channel/UCEKqrUfr_FMKIO9XSJS4vDw) and appreciate [your support](https://github.com/sponsors/nikitavoloboev). [Ask me anything](https://github.com/nikitavoloboev/ama).
 
-<details><summary>🐱</summary>
+<details><summary>💻 Click to see instructions for how to run my personal site's code</summary>
+  <br/>
+
+Run with [pnpm](https://pnpm.io):
+
+```
+pnpm install
+pnpm run dev
+```
+
+Go to http://localhost:3000/
+
+It uses [Solid Start](https://github.com/solidjs/solid-start)'s template.
+
+</details>
+
+<details><summary>🐱 More Repos</summary>
   <br/>
   <a href="https://nikitavoloboev.xyz/">
     <img width="800" heigth="200" src="https://raw.githubusercontent.com/nikitavoloboev/nikitavoloboev/master/kitty.jpg"></img>

@@ -11,7 +11,7 @@ import Footer from "~/components/Footer";
 export default function Home() {
   return (
     <article class="container w-full mx-auto prose prose-sm md:prose dark:prose-dark mt-5">
-      <Nav header={"About"} activePage={"About"} />
+      <Nav activePage={"About"} />
       <div>
         <p>
           👋 I love <a href="../projects">making</a> and{" "}
