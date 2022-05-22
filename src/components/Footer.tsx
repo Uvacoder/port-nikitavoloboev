@@ -11,12 +11,7 @@ export default function Footer() {
           padding: 0,
         }}
       ></div>
-      <div
-        style={{
-          display: "grid",
-          "grid-auto-flow": "column",
-        }}
-      >
+      <div class="flex flex-col md:grid md:grid-flow-col">
         <a href="https://twitter.com/nikitavoloboev">Twitter</a>
         <a href="https://github.com/nikitavoloboev">GitHub</a>
         <a href="https://instagram.com/nikitavoloboev">Instagram</a>
