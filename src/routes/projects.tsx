@@ -22,10 +22,10 @@ export default function Projects() {
         website to learn any topic as fast as possible.
       </p>
       <p>
-        The <a href="https://docs.learn-anything.xyz/roadmap">end goal</a> is to
-        create a machine learning system that can craft personalized study plans
-        for learning any topic and an open knowledge graph anyone can explore
-        and extend.
+        The <a href="https://wiki.nikiv.dev/ideas/learn-anything">end goal</a>{" "}
+        is to create a machine learning system that can craft personalized study
+        plans for learning any topic and an open knowledge graph anyone can
+        explore and extend.
       </p>
       <h2 id="alfred-workflows">Alfred Workflows</h2>
       <p>
