@@ -67,7 +67,7 @@ export default function Home() {
         </p>
         <p>
           🐾 If you want to know even more about me, you can see{" "}
-          <a href="../likes">what I like</a> and{" "}
+          <a href="likes">what I like</a> and{" "}
           <a href="https://wiki.nikiv.dev/">explore my wiki</a> or even{" "}
           <a href="https://github.com/nikitavoloboev/alfred-my-mind">
             search through it
