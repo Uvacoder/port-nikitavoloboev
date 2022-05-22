@@ -1,4 +1,4 @@
-👋 Hey! I learn in [public](https://wiki.nikiv.dev/). Build [Learn Anything](https://learn-anything.xyz) & [Droppa](https://www.droppa.com/). [Make things](https://nikitavoloboev.xyz/projects/) that [bring me joy](https://nikitavoloboev.xyz/likes/). Love [Karabiner](https://wiki.nikiv.dev/macOS/apps/karabiner/), [macOS](https://github.com/nikitavoloboev/my-mac-os) & [Alfred](https://wiki.nikiv.dev/macOS/apps/alfred/).
+👋 Hey! I learn in [public](https://wiki.nikiv.dev/). Build [Learn Anything](https://learn-anything.xyz) & [Droppa](https://www.droppa.com/). [Make things](https://nikiv.dev/projects) that [bring me joy](https://nikiv.dev/likes). Love [Karabiner](https://wiki.nikiv.dev/macOS/apps/karabiner/), [macOS](https://github.com/nikitavoloboev/my-mac-os) & [Alfred](https://wiki.nikiv.dev/macOS/apps/alfred/).
 
 💛 I [share things](https://wiki.nikiv.dev/sharing/) on [Twitter](https://twitter.com/nikitavoloboev), [Instagram](https://www.instagram.com/nikitavoloboev) & [YouTube](https://www.youtube.com/channel/UCEKqrUfr_FMKIO9XSJS4vDw) and appreciate [your support](https://github.com/sponsors/nikitavoloboev). [Ask me anything](https://github.com/nikitavoloboev/ama).
 
@@ -22,7 +22,7 @@ It uses [Solid Start](https://github.com/solidjs/solid-start)'s template.
 
 <details><summary>🐱 More Repos</summary>
   <br/>
-  <a href="https://nikitavoloboev.xyz/">
+  <a href="https://nikiv.dev">
     <img width="800" heigth="200" src="https://raw.githubusercontent.com/nikitavoloboev/nikitavoloboev/master/kitty.jpg"></img>
   </a>
 
