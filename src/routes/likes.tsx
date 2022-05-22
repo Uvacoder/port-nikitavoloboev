@@ -3,7 +3,7 @@ import Nav from "~/components/Nav";
 export default function Projects() {
   return (
     <article class="container w-full mx-auto prose prose-sm md:prose dark:prose-dark mt-5">
-      <Nav header={"Likes"} activePage={"Likes"} />
+      <Nav activePage={"Likes"} />
       <h2 id="animals">Animals</h2>
       <p>
         Becoming conscious of the impact my decisions have on this planet and

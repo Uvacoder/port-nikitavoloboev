@@ -3,7 +3,7 @@ import Nav from "~/components/Nav";
 export default function Projects() {
   return (
     <article class="container w-full mx-auto prose prose-sm md:prose dark:prose-dark mt-5">
-      <Nav header={"Projects"} activePage={"Projects"} />
+      <Nav activePage={"Projects"} />
       <p>
         I am currently making{" "}
         <a href="https://learn-anything.xyz">Learn Anything</a>.{" "}

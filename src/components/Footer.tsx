@@ -24,7 +24,7 @@ export default function Footer() {
         <a href="https://www.youtube.com/channel/UCEKqrUfr_FMKIO9XSJS4vDw">
           YouTube
         </a>
-        <a href="https://t.me/joinchat/BBKnQU4_rty6_942PFbPbw">Telegram</a>
+        <a href="https://t.me/niki_log">Telegram</a>
       </div>
     </>
   );
