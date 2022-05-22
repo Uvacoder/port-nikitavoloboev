@@ -5,7 +5,7 @@
 <details><summary>💻 Click to see instructions for how to run my personal site's code</summary>
   <br/>
 
-The repo with code is [here](https://github.com/nikitavoloboev/nikitavoloboev).
+The repo with code for [nikiv.dev](https://www.nikiv.dev) website is [here](https://github.com/nikitavoloboev/nikitavoloboev).
 
 To run: [Clone](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository) repo. Inside, run with [pnpm](https://pnpm.io):
 
