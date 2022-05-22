@@ -91,7 +91,6 @@ export default function Home() {
           to see where I am right now.
         </p>
       </div>
-      <Footer />
     </InfoPageWrap>
   );
 }
