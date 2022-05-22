@@ -1,8 +1,9 @@
 import Nav from "~/components/Nav";
+import InfoPageWrap from "~/components/InfoPageWrap";
 
 export default function Projects() {
   return (
-    <article class="container w-full mx-auto prose prose-sm md:prose dark:prose-dark mt-5">
+    <InfoPageWrap>
       <Nav activePage={"Projects"} />
       <p>
         I am currently making{" "}
@@ -146,6 +147,6 @@ export default function Projects() {
         </a>{" "}
         and <a href="https://wiki.nikiv.dev/sharing/my-github">writing code</a>.
       </p>
-    </article>
+    </InfoPageWrap>
   );
 }

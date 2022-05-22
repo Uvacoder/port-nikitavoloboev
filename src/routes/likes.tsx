@@ -1,8 +1,9 @@
 import Nav from "~/components/Nav";
+import InfoPageWrap from "~/components/InfoPageWrap";
 
 export default function Projects() {
   return (
-    <article class="container w-full mx-auto prose prose-sm md:prose dark:prose-dark mt-5">
+    <InfoPageWrap>
       <Nav activePage={"Likes"} />
       <h2 id="animals">Animals</h2>
       <p>
@@ -407,6 +408,6 @@ export default function Projects() {
         <p>Dying is but a moment.</p>
         <p>So it goes.</p>
       </blockquote>
-    </article>
+    </InfoPageWrap>
   );
 }

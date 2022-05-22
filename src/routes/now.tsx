@@ -1,8 +1,9 @@
+import InfoPageWrap from "~/components/InfoPageWrap";
 import Nav from "~/components/Nav";
 
 export default function Projects() {
   return (
-    <article class="container w-full mx-auto prose prose-sm md:prose dark:prose-dark mt-5">
+    <InfoPageWrap>
       <Nav activePage={"Now"} />
       <p>
         <a href="../projects">Building ideas</a> &amp; completing my{" "}
@@ -17,6 +18,6 @@ export default function Projects() {
       <p>
         In Eindhoven. <a href="https://twitter.com/nikitavoloboev">Say 👋</a>.
       </p>
-    </article>
+    </InfoPageWrap>
   );
 }

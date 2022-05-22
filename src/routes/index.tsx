@@ -1,27 +1,12 @@
-// import { Dynamic } from "solid-js/web";
-// import marked from "marked";
 import Nav from "~/components/Nav";
 import Footer from "~/components/Footer";
-
-// function Markdown({ children }: { children: string }) {
-//   // @ts-ignore
-//   return <Dynamic component="p" innerHTML={marked.parse(children)} />;
-// }
+import InfoPageWrap from "~/components/InfoPageWrap";
 
 export default function Home() {
   return (
-    <article class="container w-full mx-auto prose prose-sm md:prose dark:prose-dark mt-5">
+    <InfoPageWrap>
       <Nav activePage={"About"} />
       <div>
-        <p>
-          ⚠️ This is new site. Can check source code{" "}
-          <a href="https://github.com/nikitavoloboev/nikitavoloboev">here</a>.
-          Right now if you go to other pages, you have to{" "}
-          <a href="https://twitter.com/RyanCarniato/status/1528470738788704256">
-            refresh the page to see updates
-          </a>
-          . Hopefully will get fixed soon.
-        </p>
         <p>
           👋 I love <a href="../projects">making</a> and{" "}
           <a href="https://wiki.nikiv.dev/sharing/">sharing</a> things I have
@@ -106,11 +91,7 @@ export default function Home() {
           to see where I am right now.
         </p>
       </div>
-      {/* TODO: should work, wait for https://github.com/high1/solid-jsx/issues/4 */}
-      {/* <MDXProvider>
-        <About />
-      </MDXProvider> */}
       <Footer />
-    </article>
+    </InfoPageWrap>
   );
 }
