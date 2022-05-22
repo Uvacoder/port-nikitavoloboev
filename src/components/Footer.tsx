@@ -21,6 +21,20 @@ export default function Footer() {
         </a>
         <a href="https://t.me/niki_log">Telegram</a>
       </div>
+      <div>
+        <div
+          style={{
+            width: "5%",
+            "margin-top": "20px",
+            "margin-left": "auto",
+            "margin-right": "auto",
+          }}
+        >
+          <a href="https://github.com/nikitavoloboev/nikitavoloboev">
+            <img src="./github.svg" />
+          </a>
+        </div>
+      </div>
     </>
   );
 }
