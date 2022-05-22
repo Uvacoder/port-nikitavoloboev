@@ -8,8 +8,10 @@ export default function Root() {
   return (
     <html lang="en">
       <head>
+        <title>Nikita Voloboev</title>
         <meta charset="utf-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
+        <meta name="description" content="Nikita's personal site"></meta>
         <Meta />
         <Links />
       </head>
