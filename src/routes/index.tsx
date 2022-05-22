@@ -14,6 +14,15 @@ export default function Home() {
       <Nav activePage={"About"} />
       <div>
         <p>
+          ⚠️ This is new site. Can check source code{" "}
+          <a href="https://github.com/nikitavoloboev/nikitavoloboev">here</a>.
+          Right now if you go to other pages, you have to{" "}
+          <a href="https://twitter.com/RyanCarniato/status/1528470738788704256">
+            refresh the page to see updates
+          </a>
+          . Hopefully will get fixed soon.
+        </p>
+        <p>
           👋 I love <a href="../projects">making</a> and{" "}
           <a href="https://wiki.nikiv.dev/sharing/">sharing</a> things I have
           built with the world.
