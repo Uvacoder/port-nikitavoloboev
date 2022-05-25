@@ -19,7 +19,7 @@ export default function Home() {
             open source
           </a>{" "}
           website for{" "}
-          <a href="https://docs.learn-anything.xyz/roadmap">
+          <a href="https://wiki.nikiv.dev/ideas/learn-anything">
             learning any topic as fast as possible
           </a>
           .
