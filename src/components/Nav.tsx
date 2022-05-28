@@ -33,10 +33,9 @@ export default function Nav({ activePage }: Props) {
         <a class="nav-link" href="https://github.com/nikitavoloboev/ama">
           AMA
         </a>
-        {/* TODO: fix */}
-        {/* <a class="nav-link" href="./cv.pdf">
+        <a rel="external" class="nav-link" href="./cv.pdf">
           CV
-        </a> */}
+        </a>
         <a class="nav-link" href="https://github.com/sponsors/nikitavoloboev">
           ♥️
         </a>
