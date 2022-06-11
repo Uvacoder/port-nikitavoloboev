@@ -1,9 +1,9 @@
-import InfoPageWrap from "~/components/InfoPageWrap";
+import PageWrap from "~/components/PageWrap";
 import Nav from "~/components/Nav";
 
 export default function Projects() {
   return (
-    <InfoPageWrap>
+    <PageWrap>
       <Nav activePage={"Now"} />
       <p>
         <a href="../projects">Building ideas</a> &amp; completing my{" "}
@@ -18,6 +18,6 @@ export default function Projects() {
       <p>
         In Eindhoven. <a href="https://twitter.com/nikitavoloboev">Say 👋</a>.
       </p>
-    </InfoPageWrap>
+    </PageWrap>
   );
 }

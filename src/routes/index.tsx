@@ -1,10 +1,9 @@
 import Nav from "~/components/Nav";
-import Footer from "~/components/Footer";
-import InfoPageWrap from "~/components/InfoPageWrap";
+import PageWrap from "~/components/PageWrap";
 
 export default function Home() {
   return (
-    <InfoPageWrap>
+    <PageWrap>
       <Nav activePage={"About"} />
       <div>
         <p>
@@ -91,6 +90,6 @@ export default function Home() {
           to see where I am right now.
         </p>
       </div>
-    </InfoPageWrap>
+    </PageWrap>
   );
 }

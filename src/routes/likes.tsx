@@ -1,9 +1,9 @@
 import Nav from "~/components/Nav";
-import InfoPageWrap from "~/components/InfoPageWrap";
+import PageWrap from "~/components/PageWrap";
 
 export default function Projects() {
   return (
-    <InfoPageWrap>
+    <PageWrap>
       <Nav activePage={"Likes"} />
       <h2 id="animals">Animals</h2>
       <p>
@@ -408,6 +408,6 @@ export default function Projects() {
         <p>Dying is but a moment.</p>
         <p>So it goes.</p>
       </blockquote>
-    </InfoPageWrap>
+    </PageWrap>
   );
 }

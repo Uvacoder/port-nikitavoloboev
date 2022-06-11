@@ -1,9 +1,9 @@
 import Nav from "~/components/Nav";
-import InfoPageWrap from "~/components/InfoPageWrap";
+import PageWrap from "~/components/PageWrap";
 
 export default function Projects() {
   return (
-    <InfoPageWrap>
+    <PageWrap>
       <Nav activePage={"Projects"} />
       <p>
         I am currently making{" "}
@@ -147,6 +147,6 @@ export default function Projects() {
         </a>{" "}
         and <a href="https://wiki.nikiv.dev/sharing/my-github">writing code</a>.
       </p>
-    </InfoPageWrap>
+    </PageWrap>
   );
 }
