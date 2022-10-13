@@ -1,4 +1,4 @@
-import { Link } from "solid-app-router"
+import { A } from "solid-start"
 
 export default function NotFound() {
   return (
@@ -7,9 +7,9 @@ export default function NotFound() {
         Not Found
       </h1>
       <p class="my-4">
-        <Link href="/" class="text-sky-600 hover:underline">
+        <A href="/" class="text-sky-600 hover:underline">
           Home
-        </Link>
+        </A>
       </p>
     </main>
   )
