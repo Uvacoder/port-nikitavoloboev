@@ -1,8 +1,8 @@
-import solid from "solid-start"
+import solid from "solid-start/vite"
 import vercel from "solid-start-vercel"
 import { defineConfig } from "vite"
 
-export default defineConfig(async () => ({
+export default defineConfig({
   plugins: [
     {
       ...(await import("@mdx-js/rollup")).default({
@@ -17,4 +17,4 @@ export default defineConfig(async () => ({
       extensions: [".mdx", ".md"],
     }),
   ],
-}))
+})
